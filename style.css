@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+#traf_light {
+    height: 310px;
+    width: 110px;
+    padding: 9px;
+    margin: auto;
+    background-color: rgb(37, 36, 36);
+    border: 5px solid black;
+    border-radius: 30px;
+}
+#red {
+    height:80px;
+    width:80px;
+    background-color: rgb(19, 11, 11);
+    border: 2px solid black;
+    border-radius: 50%;
+}
+#yellow {
+    height: 80px;
+    width: 80px;
+    background-color: rgb(19, 11, 11);
+    border: 2px solid black;
+    border-radius: 50%;
+    margin: 20px 0 20px;
+    padding-top: 15px;
+    text-align:center;
+    font-size: 40px;
+}
+#green {
+    height:80px;
+    width:80px;
+    background-color: rgb(19, 11, 11);
+    border: 2px solid black;
+    border-radius: 50%;
+}
+
